@@ -1,0 +1,12 @@
+# 환경변수 (절대 올리면 안 됨)
+backend/.env
+backend/venv/
+backend/__pycache__/
+backend/orders.json
+
+# React
+frontend/node_modules/
+frontend/build/
+
+# Mac
+.DS_Store
