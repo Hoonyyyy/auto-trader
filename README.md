@@ -1,0 +1,4 @@
+  - Python FastAPI 백엔드
+  - React TypeScript 프론트엔드
+  - Alpaca 모의투자 API 연동
+  - 실시간 가격 차트, 자동완성, 설정 저장
